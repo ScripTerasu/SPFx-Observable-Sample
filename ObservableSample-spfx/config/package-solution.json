@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "observable-sample-spfx-client-side-solution",
+    "id": "c24eb441-4a84-42b1-8a70-1f436b8b97fb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/observable-sample-spfx.sppkg"
+  }
+}

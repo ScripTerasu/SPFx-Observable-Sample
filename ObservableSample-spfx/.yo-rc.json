@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.6.0",
+    "libraryName": "observable-sample-spfx",
+    "libraryId": "c24eb441-4a84-42b1-8a70-1f436b8b97fb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ObservableSample-spfx",
+    "framework": "none",
+    "isCreatingSolution": true
+  }
+}
